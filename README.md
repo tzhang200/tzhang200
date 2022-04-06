@@ -1,5 +1,11 @@
 ### Hi there 👋
+🔭 I’m currently working on fun stuff
 
+#### Languages and Tools
+![C#](https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white)
+![C](https://img.shields.io/badge/C-%23A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?logo=cplusplus)
+![Keycloak](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
 <!--
 **tzhang200/tzhang200** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
